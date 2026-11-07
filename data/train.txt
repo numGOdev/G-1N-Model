@@ -1,0 +1,6 @@
+G-1N is an experimental language model created by GOdev.
+A language model learns patterns from examples of text.
+A Transformer uses attention to process context.
+The model predicts the next token based on earlier tokens.
+This small sample only checks that the training pipeline runs.
+A useful language model requires much more permitted training text and careful evaluation.
